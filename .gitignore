@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+
+# Ignore Sass cache files (if any)
+.sass-cache/
+
+# Ignore CSS source maps (if generated for debugging)
+*.map
+
+# OS and IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment variables (if you have them)
+.env
+
+# Ignore temporary build directories if using a build tool
+# Only include if you actually have these directories in your setup
+build/
+dist/
