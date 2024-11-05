@@ -3311,11 +3311,11 @@ input, select, textarea {
 
 /* Accent backgrounds for experience and education cards */
 .experience-card, .education-card {
-    background-color: #f5f7fa;
+    /*background-color: #f5f7fa;*/
     padding: 1.5em;
     border-radius: 8px;
     margin-bottom: 1.5em;
-    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+    /*box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);*/
 }
 
 .experience-card h4, .education-card h4 {
